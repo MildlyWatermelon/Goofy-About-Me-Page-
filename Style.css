@@ -1,0 +1,38 @@
+body {
+	background-color: violet;
+}
+
+h1 {
+	color: lime;
+	font-family: Monoton;
+}
+
+.big {
+	font-size: 20px;
+}
+
+.Otis {
+	width: 1500px;
+	height: 400px; 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+.Ape {
+	width: 800px;
+	height: 1200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-width: 20px;
+	border-color: gold;
+	border-style: groove;
+}
+
+.Middle {
+  text-align: center;
+}
+
